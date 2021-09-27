@@ -6,7 +6,14 @@ tool information:
 - Api: ☑️
 - Proxy: No☑️
 - The correct is saved in the Hacked-mail.txt
--
+-------------------
+
+Run it on Linux:
+
+
+
+
+------------------
 By Joker /<a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a>
 -
 see
