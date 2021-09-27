@@ -4,7 +4,7 @@ tool information:
 - Domains: All domains of the site
 - Url: https://www.mail.com
 - Api: ☑️
-- Proxy: No☑️
+- Proxy: No☑️ 
 - The correct is saved in the Hacked-mail.txt
 -------------------
 
