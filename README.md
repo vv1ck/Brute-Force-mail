@@ -24,7 +24,7 @@ cd Brute-Force-mail
 
 <!--START_SECTION:waka-->
 ```
-python3 Brute-Force-mail.py
+python3 Brute-force-mail.py
 ```
 <!--END_SECTION:waka-->
 
