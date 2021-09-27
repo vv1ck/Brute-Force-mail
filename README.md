@@ -10,7 +10,23 @@ tool information:
 
 Run it on Linux:
 
+<!--START_SECTION:waka-->
+```
+git clone https://github.com/vv1ck/Brute-Force-mail
+```
+<!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+```
+cd Brute-Force-mail
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```
+python3 Brute-Force-mail.py
+```
+<!--END_SECTION:waka-->
 
 
 ------------------
